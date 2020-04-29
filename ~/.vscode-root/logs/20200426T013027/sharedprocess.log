@@ -1,0 +1,15 @@
+[2020-04-26 01:30:31.689] [sharedprocess] [info] main {"machineId":"7b0fb24cfc8de0109c5471693efa48c39e3b1f0e64e2e8fb99f872638a2e4447","windowId":2}
+[2020-04-26 01:30:31.727] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aver343/Desktop/MERN TASK-MANAGER/~/.vscode-root/User/snippets'
+[2020-04-26 01:31:11.707] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-04-27 04:19:25.048] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2020-04-27 04:19:42.680] [sharedprocess] [info] Downloaded extension: tabnine.tabnine-vscode /tmp/eefef385-5a89-4efc-a9e7-a8b2d1a97152
+[2020-04-27 04:19:44.176] [sharedprocess] [info] Extracted extension to /home/aver343/.vscode/extensions/.tabnine.tabnine-vscode-2.8.1: tabnine.tabnine-vscode
+[2020-04-27 04:19:44.318] [sharedprocess] [info] Renamed to /home/aver343/.vscode/extensions/tabnine.tabnine-vscode-2.8.1
+[2020-04-27 04:19:44.320] [sharedprocess] [info] Installation completed. tabnine.tabnine-vscode
+[2020-04-27 04:19:45.560] [sharedprocess] [info] Extensions installed successfully: tabnine.tabnine-vscode
+[2020-04-28 09:09:35.135] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-04-28 09:10:34.473] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/4d2e9615-6d5d-44c9-86a8-a3361a1e0ec9
+[2020-04-28 09:10:37.383] [sharedprocess] [info] Extracted extension to /home/aver343/.vscode/extensions/.ms-python.python-2020.4.76186: ms-python.python
+[2020-04-28 09:10:37.383] [sharedprocess] [info] Renamed to /home/aver343/.vscode/extensions/ms-python.python-2020.4.76186
+[2020-04-28 09:10:37.387] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-04-28 09:10:37.586] [sharedprocess] [info] Extensions installed successfully: ms-python.python
